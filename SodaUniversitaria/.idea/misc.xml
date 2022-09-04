@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Documentos/Universidad2022SegundoSemestre/Moviles/Lab02-Moviles/SodaUniversitaria/app/src/main/res/layout/activity_calculadora.xml" value="0.1" />
+        <entry key="..\:/Documentos/Universidad2022SegundoSemestre/Moviles/Lab02-Moviles/SodaUniversitaria/app/src/main/res/layout/activity_lista_sodas.xml" value="0.1" />
+        <entry key="..\:/Documentos/Universidad2022SegundoSemestre/Moviles/Lab02-Moviles/SodaUniversitaria/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/b98243/AndroidStudioProjects/SodaUniversitaria/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
